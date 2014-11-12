@@ -13,7 +13,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {
       
       
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 13585, function(sym, e) {
+      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 13580, function(sym, e) {
          this.play (0);
 
       });
@@ -22,7 +22,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       Symbol.bindElementAction(compId, symbolName, "${_Stage}", "click", function(sym, e) {
          // Navigate to a new URL in the current window
          // (replace "_self" with appropriate target attribute for a new window)
-         window.open("http://bjartur.is", "_new");
+         window.open("http://www.bjartur.is/baekur/hinn-litlausi-tsukuru-tazaki-og-pilagrimsar-hans/", "_new");
          
          
 
