@@ -107,23 +107,23 @@ var symbols = {
         "Default Timeline": {
             fromState: "Base State",
             toState: "",
-            duration: 14000,
+            duration: 13585,
             autoPlay: true,
             timeline: [
                 { id: "eid15", tween: [ "style", "${_Bannerbok}", "top", '37px', { fromValue: '37px'}], position: 2000, duration: 0 },
-                { id: "eid83", tween: [ "style", "${_Rectangle}", "opacity", '0', { fromValue: '1'}], position: 12100, duration: 1000 },
-                { id: "eid84", tween: [ "style", "${_Rectangle}", "opacity", '1', { fromValue: '0'}], position: 13100, duration: 900 },
-                { id: "eid51", tween: [ "style", "${_Untitled-2}", "opacity", '1', { fromValue: '0'}], position: 6130, duration: 415 },
-                { id: "eid64", tween: [ "style", "${_Untitled-2}", "opacity", '0', { fromValue: '1'}], position: 10100, duration: 415 },
-                { id: "eid67", tween: [ "style", "${_bjartur-300x122}", "opacity", '1', { fromValue: '0'}], position: 11160, duration: 1440 },
-                { id: "eid75", tween: [ "style", "${_bjartur-300x122}", "opacity", '0', { fromValue: '1'}], position: 12600, duration: 500 },
-                { id: "eid39", tween: [ "style", "${_Text}", "opacity", '1', { fromValue: '0'}], position: 5930, duration: 200 },
-                { id: "eid40", tween: [ "style", "${_Text}", "opacity", '0', { fromValue: '1'}], position: 10515, duration: 300 },
+                { id: "eid83", tween: [ "style", "${_Rectangle}", "opacity", '0', { fromValue: '1'}], position: 11585, duration: 1000 },
+                { id: "eid84", tween: [ "style", "${_Rectangle}", "opacity", '1', { fromValue: '0'}], position: 12585, duration: 900 },
+                { id: "eid51", tween: [ "style", "${_Untitled-2}", "opacity", '1', { fromValue: '0'}], position: 5875, duration: 415 },
+                { id: "eid64", tween: [ "style", "${_Untitled-2}", "opacity", '0', { fromValue: '1'}], position: 9585, duration: 415 },
+                { id: "eid67", tween: [ "style", "${_bjartur-300x122}", "opacity", '1', { fromValue: '0'}], position: 10645, duration: 1440 },
+                { id: "eid75", tween: [ "style", "${_bjartur-300x122}", "opacity", '0', { fromValue: '1'}], position: 12085, duration: 500 },
+                { id: "eid39", tween: [ "style", "${_Text}", "opacity", '1', { fromValue: '0'}], position: 5675, duration: 200 },
+                { id: "eid40", tween: [ "style", "${_Text}", "opacity", '0', { fromValue: '1'}], position: 10000, duration: 300 },
                 { id: "eid6", tween: [ "color", "${_Rectangle}", "background-color", 'rgba(192,192,192,0.00)', { animationColorSpace: 'RGB', valueTemplate: undefined, fromValue: 'rgba(192,192,192,1)'}], position: 0, duration: 2000 },
-                { id: "eid70", tween: [ "color", "${_Rectangle}", "background-color", 'rgba(192,192,192,1.00)', { animationColorSpace: 'RGB', valueTemplate: undefined, fromValue: 'rgba(192,192,192,1.00)'}], position: 13100, duration: 0 },
-                { id: "eid71", tween: [ "color", "${_Rectangle}", "background-color", 'rgba(192,192,192,1.00)', { animationColorSpace: 'RGB', valueTemplate: undefined, fromValue: 'rgba(192,192,192,1.00)'}], position: 14000, duration: 0 },
+                { id: "eid70", tween: [ "color", "${_Rectangle}", "background-color", 'rgba(192,192,192,1.00)', { animationColorSpace: 'RGB', valueTemplate: undefined, fromValue: 'rgba(192,192,192,1.00)'}], position: 12585, duration: 0 },
+                { id: "eid71", tween: [ "color", "${_Rectangle}", "background-color", 'rgba(192,192,192,1.00)', { animationColorSpace: 'RGB', valueTemplate: undefined, fromValue: 'rgba(192,192,192,1.00)'}], position: 13485, duration: 0 },
                 { id: "eid11", tween: [ "style", "${_Bannerbok}", "left", '30px', { fromValue: '30px'}], position: 2000, duration: 0 },
-                { id: "eid17", tween: [ "style", "${_Bannerbok}", "left", '393px', { fromValue: '30px'}], position: 5680, duration: 250 }            ]
+                { id: "eid17", tween: [ "style", "${_Bannerbok}", "left", '393px', { fromValue: '30px'}], position: 5425, duration: 250 }            ]
         }
     }
 }

@@ -19,7 +19,7 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"viewStartMs":"9210.5742330551",
+	"viewStartMs":"5189.3896484375",
 	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"symbol_stage":{
 		"element_${_Bannerbok}":{
@@ -73,7 +73,7 @@
 	"pixelsPerMs":"0.2",
 	"usedBOM":"false",
 	"nextElementColorIndex":"9",
-	"stage-Default Timeline_playhead_ms":"11500",
+	"stage-Default Timeline_playhead_ms":"6919",
 	"pref__general__GenerateSmoothTransitions":"true",
 	"stage-Default Timeline_mark_ms":"-1",
 	"viewStartY":"0"}
